@@ -1,6 +1,6 @@
 This code is provided for research purpose only.
 
-The "Jac" folder contains COMSOL + MATLAB simulation files. These can generate electric field data and reference conductivity. Afterwards, you can calculate the Jacobian matrix based on the formula (please modify the path before use; the files are already complete)
+The "Jac" folder contains COMSOL + MATLAB simulation files. These can generate electric field data and reference conductivity. Afterwards, you can calculate the Jacobian matrix based on the formula (please modify the path before use; the files are already complete). The Jacobian matrix J and forward model data are pre-calculated using COMSOL and provided in the data folder. Users can run the reconstruction directly without a COMSOL license.
 
 Run "Demo_Case1_UNNP.ipynb" for an example. (Using the pytorch)
 
