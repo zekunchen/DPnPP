@@ -2,7 +2,7 @@ Code & Reproducibility Guide
 This repository is provided for research purposes only. It includes the implementation of the UNNP framework and the core logic of the proposed DPnPP algorithm.
 
 1. Quick Start (Reconstruction Demo)Direct Execution: Run Demo_Case1_UNNP.ipynb for an immediate example of image reconstruction using PyTorch.
-* No License Required: The Jacobian matrix $J$ and necessary forward model data are pre-calculated via COMSOL and provided in the data/ folder3. Users can execute the reconstruction demo immediately without a COMSOL license.
+* No License Required: The Jacobian matrix $J$ and necessary forward model data are pre-calculated via COMSOL and provided in the data/ folder. Users can execute the reconstruction demo immediately without a COMSOL license.
 
 2. Forward Problem & Jacobian Calculation
 * The Jac/ folder contains the COMSOL + MATLAB simulation toolchain.
