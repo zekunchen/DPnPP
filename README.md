@@ -6,6 +6,7 @@ This repository is provided for research purposes only. It includes the implemen
 
 2. Forward Problem & Jacobian Calculation
 * The Jac/ folder contains the COMSOL + MATLAB simulation toolchain.
+* main2_E.m: Provides the electric field distributions within the domain, which are the fundamental physical components for Jacobian generation. main2_ref.m: Provides the baseline voltage calculations for the homogeneous background.
 * These files generate electric field data and reference conductivity. Users can recalculate the Jacobian matrix based on the formulas provided in the paper (please update the file paths in the scripts before use).
 
 3. Algorithm Details
