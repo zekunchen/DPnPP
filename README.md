@@ -15,4 +15,4 @@ UNNP & DPnPP: This package provides the base Python implementation of UNNP. The 
 Citation
 If this code or the DPnPP framework assists your research, please cite our paper:
 
-"Deep Plug-and-play Prior for Enhanced Electrical Impedance Tomography"
+"Deep Plug-and-play Prior for Enhanced Electrical Impedance Tomography", Applied Soft Computing.
